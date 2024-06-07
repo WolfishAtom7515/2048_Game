@@ -32,10 +32,10 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 ###  How to run it?
 ```bash
 # Clone the repository
-git clone https://github.com/BobeiBogdan-Dumitru/2048-game.git
+git clone https://github.com/WolfishAtom7515/2048_Game
 
 # Navigate to the project directory
-cd 2048-game
+cd 2048_Game
 
 # Create the game via makefile
 make build
