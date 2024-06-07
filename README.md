@@ -32,7 +32,7 @@ sudo apt-get install libncurses5-dev libncursesw5-dev
 ###  How to run it?
 ```bash
 # Clone the repository
-git clone https://github.com/WolfishAtom7515/2048_Game
+git clone https://github.com/WolfishAtom7515/2048_Game.git
 
 # Navigate to the project directory
 cd 2048_Game
